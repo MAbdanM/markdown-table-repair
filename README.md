@@ -1,3 +1,6 @@
+[![PyPI](https://img.shields.io/pypi/v/markdown-table-repair)](https://pypi.org/project/markdown-table-repair/)
+![Python version](https://img.shields.io/badge/python-3.8+-important)
+
 # 🛠️ Markdown Table Repair
 ```markdown-table-repair``` is a python package designed to repair and clean malformed markdown tables and convert them into structured pandas.
 
