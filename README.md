@@ -2,7 +2,7 @@
 ![Python version](https://img.shields.io/badge/python-3.8+-important)
 
 # 🛠️ Markdown Table Repair
-```markdown-table-repair``` is a python package designed to repair and clean malformed markdown tables and convert them into structured pandas.
+```markdown-table-repair``` is a Python package designed to repair and clean malformed Markdown tables and convert them into structured pandas DataFrames. Large language models (LLMs) often generate tables with inconsistent formatting, making it difficult to use the data directly. This package helps by cleaning and structuring these tables into usable DataFrames.
 
 # ✨ Supported Broken Markdown Table Format
 - Inconsistent column and header count
